@@ -16,6 +16,6 @@ int main()
     {
         printf("O numero %d e Impar", numero);
     }
-    
+    // sw
     return 0;
 }
